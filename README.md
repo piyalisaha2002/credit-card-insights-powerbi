@@ -13,13 +13,19 @@ Enable real-time monitoring of financial trends and operational efficiency.
 Key Features
 
 ✅ Dynamic Data Visualizations – Interactive charts and graphs to display transaction trends.
+
 ✅ Customer Segmentation – Identifies spending patterns based on user demographics.
+
 ✅ Fraud Detection Insights – Highlights unusual transactions for risk assessment.
+
 ✅ Revenue & Profitability Metrics – Tracks revenue generation from credit card operations.
+
 ✅ Filters & Drill-Throughs – Enables deep-dive analysis of specific data points.
 
 🛠️ Tools & Technologies
 
 Power BI – For data visualization and dashboard creation.
+
 SQL – Used for data extraction and transformation.
-Excel/Python (Optional) – For pre-processing and cleaning the dataset.
+
+
